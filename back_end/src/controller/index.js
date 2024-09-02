@@ -1,0 +1,1 @@
+module.exports.user_Controller = require("./user_controller")

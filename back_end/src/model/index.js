@@ -1,0 +1,1 @@
+module.exports.User = require("./get_user_model")
